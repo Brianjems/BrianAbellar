@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT** 
 
 - 👨‍💻 All of my projects are available at [https://brianjems.github.io/myyporftolio.github.io/](https://brianjems.github.io/myyporftolio.github.io/)
 
