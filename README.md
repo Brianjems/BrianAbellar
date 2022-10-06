@@ -1,3 +1,5 @@
+<img align="right" alt="coding" width="400" src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_5.jpg">
+
 <h1 align="center">Hi 👋, I'm Brian Abellar</h1>
 <h3 align="center">I'm a Frontend Software Engineer with a strong passion for building web applications with great user experiences.</h3>
 
