@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Abellar</h1>
 <h3 align="center">I'm a Frontend Software Engineer with a strong passion for building web applications with great user experiences.</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg"
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
 - 🌱 I’m currently learning **REACT**
 
